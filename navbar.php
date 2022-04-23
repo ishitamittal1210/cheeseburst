@@ -19,7 +19,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="fa fa-fw fa-address-card"></i>About</a>
+              <a class="nav-link" href="about.php"><i class="fa fa-fw fa-address-card"></i>About</a>
             </li>
             
             <li class="nav-item">

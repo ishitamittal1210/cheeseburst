@@ -41,8 +41,8 @@
 								<p><a href="#">Privacy Policy</a></p>
 								<p><a href="#">Order Tracking</a></p>
 								<p><a href="#">Warranty and Services</a></p>
-								<p><a href="about.html">About</a></p>
-								<p><a href="contact.html">Contact Us</a></p>
+								<p><a href="about.php">About</a></p>
+								<p><a href="contact.php">Contact Us</a></p>
 								<p><a href="#">Wishlist</a></p>
 								<!-- </p> -->
 						</div>

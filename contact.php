@@ -36,7 +36,7 @@
     <div style="background-color: black;">
 
         <div class="menu-top-bg">
-            <img src="../images/menu-top-bg.png" alt="meu-bg" style="width:100%;height: 50px;">
+            <img src="images/menu-top-bg.png" alt="meu-bg" style="width:100%;height: 50px;">
         </div>
 
          <h1 style="font-size: 150px;margin-top: 20px;position: relative;color: #3b3b3b;text-align: center;">CONTACT</h1>
@@ -44,11 +44,6 @@
 
          <br>
          <br>
-
-
-        <div class="menu-bottom-bg">
-            <img src="../images/menu-bottom-bg.png" alt="menu-bg" style="width:100%;height: 50px;">
-        </div> 
 
        <div class='container'>
            <div class='row text-light'>
@@ -125,7 +120,9 @@
 
            </div>
        </div>
-        
+       <div class="menu-bottom-bg">
+            <img src="images/menu-bottom-bg.png" alt="menu-bg" style="width:100%;height: 50px;">
+        </div>
     </div> 
     <?php require 'footer.php' ?>
 </body>
