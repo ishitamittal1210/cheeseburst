@@ -7,7 +7,7 @@
           <ul class="navbar-nav ml-auto">
             
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+              <a class="nav-link" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
             </li>
 
             <li class="nav-item">
@@ -23,7 +23,7 @@
             </li>
             
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="fa fa-fw fa-envelope"></i> Contact Us</a>
+              <a class="nav-link" href="contact.php"><i class="fa fa-fw fa-envelope"></i> Contact Us</a>
             </li> 
 
             <li class="nav-item">

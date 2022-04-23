@@ -178,3 +178,26 @@ hr{
     color: white;
     transform: rotateY(180deg);
 }
+
+.touch-input{
+    border: 2px solid white;
+    background: black;
+    width: 100%;
+    padding: 12px;
+}
+.contact-btn{
+    width: 30%;
+    padding: 10px;
+    background: rgb(238, 191, 2);
+    font-size: x-large;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.touch-text, .touch-accept{
+    font-size: x-large;
+}
+.touch-envelope, .fa-phone{
+    font-size: 50px;
+    color:rgb(238, 191, 2);
+}
