@@ -1,6 +1,3 @@
-<?php 
-//  $tu = './components/';
- ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,14 +24,24 @@
     <title>CheeseBurst</title>
 
     <style>
-        <?php include 'style.css'; ?>
+        <?php include '../style.css'; ?>
     </style>
     
 </head>
 <body>
-    <?php require 'navbar.php'; ?>
-    <?php require 'header.php'; ?>
-    <?php require 'main.php'; ?>
-    <?php require 'footer.php'; ?>
+    <?php require '../components/navbar.php' ?>
+    <div>
+        <img src="https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FmZXxlbnwwfHwwfHw%3D&w=1000&q=80" alt="cafe" style="width: 100%;height: 500px;">
+    </div>
+    <div style="background-color: black;">
+    <div class="menu-top-bg"><img src="../images/menu-top-bg.png" alt="meu-bg" style="width:100%;height: 50px;"></div>
+         <h1 style="font-size: 150px;margin-top: 20px;position: relative;color: #3b3b3b;text-align: center;">CONTACT</h1>
+         <h2 style="position: relative;margin-top: -124px;font-size: 50px; color: yellow;text-align: center;">GET IN TOUCH</h2>
+         <br>
+         <br>
+         <h1 style="color: white;">Don't Be Shy</h1>
+    <div class="menu-bottom-bg"><img src="../images/menu-bottom-bg.png" alt="menu-bg" style="width:100%;height: 50px;"></div>
+    </div>
+    <?php require '../components/footer.php' ?>
 </body>
 </html>

@@ -16,7 +16,7 @@
               </div>
               <div class="carousel-item">
                 <!-- <img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/banner-bg-1.png" alt="Chicago" width="1100" height="500"> -->
-                <img src="pizza.gif" alt="" width="1100" height="500" class="rounded mx-auto d-block">
+                <img src="./images/pizza.gif" alt="" width="1100" height="500" class="rounded mx-auto d-block">
                 <div class="carousel-caption">
                   <h1>Food Made With Love</h1>
                   <!-- <p>We love the Big Apple!</p> -->
@@ -28,7 +28,7 @@
                 </div>   
               </div>
               <div class="carousel-item">
-                <img src="drinks.gif" alt="" width="1100" height="1000" class="rounded mx-auto d-block">
+                <img src="./images/drinks.gif" alt="" width="1100" height="1000" class="rounded mx-auto d-block">
                 <div class="carousel-caption">
                   <!-- <h3>New York</h3> -->
                   <!-- <p>We love the Big Apple!</p> -->

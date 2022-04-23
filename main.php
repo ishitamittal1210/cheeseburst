@@ -339,15 +339,19 @@
 					</div>
 				</div>
 			</div>
+
 			<div id="demo" class="carousel slide" data-ride="carousel">
+
                 <ul class="carousel-indicators">
-                <li data-target="#demo1" data-slide-to="0" class="active"></li>
-                <li data-target="#demo1" data-slide-to="1"></li>
-                <li data-target="#demo1" data-slide-to="2"></li>
-                <li data-target="#demo1" data-slide-to="3"></li>
-                <li data-target="#demo1" data-slide-to="4"></li>
+                  <li data-target="#demo1" data-slide-to="0" class="active"></li>
+                  <li data-target="#demo1" data-slide-to="1"></li>
+                  <li data-target="#demo1" data-slide-to="2"></li>
+                  <li data-target="#demo1" data-slide-to="3"></li>
+                  <li data-target="#demo1" data-slide-to="4"></li>
                 </ul>
+
                 <div class="carousel-inner">
+
                     <div class="carousel-item active">
                         <img src="https://i.pinimg.com/originals/84/d3/71/84d371a8dbd082127ced3925f51801af.png" alt="Los Angeles" class="rounded mx-auto d-block">
                         <div class="carousel-caption">
@@ -355,6 +359,7 @@
                         <p>Love Creative Art and drawings!!</p>
                         </div>  
                     </div>
+
                     <div class="carousel-item">
                         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d2943578-2865-46c9-b384-54cf5325f955/derltge-e3c20f64-2fa3-42cd-8c5e-f09acbb4e3c9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QyOTQzNTc4LTI4NjUtNDZjOS1iMzg0LTU0Y2Y1MzI1Zjk1NVwvZGVybHRnZS1lM2MyMGY2NC0yZmEzLTQyY2QtOGM1ZS1mMDlhY2JiNGUzYzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6aqfjcjPREbubXYUVmhsmOTHY9_mgLz17uuAoD0UYw0" alt="Chicago" width="1100" height="500" class="rounded mx-auto d-block">
                         <div class="carousel-caption">
@@ -362,6 +367,7 @@
                         <p>Acknowledge Me !! And Burn it Down</p>
                         </div>   
                     </div>
+
                     <div class="carousel-item">
                         <img src="https://i.pinimg.com/originals/cf/5d/f7/cf5df7e4e7804644a43be3f66a224b9d.jpg" alt="New York" width="1100" height="500" class="rounded mx-auto d-block">
                         <div class="carousel-caption">
@@ -369,6 +375,7 @@
                         <p>UniversBeliever!</p>
                         </div>   
                     </div>
+
                     <div class="carousel-item">
                         <img src="http://iphonewallpaperworld.com/wp-content/uploads/2020/12/Jassi-Gill-Wallpaper-2021-1.jpg" alt="New York" width="1100" height="500" class="rounded mx-auto d-block">
                         <div class="carousel-caption">
@@ -376,6 +383,7 @@
                         <p>Believe in creating a life that  I love to live in !</p>
                         </div>   
                     </div>
+
                     <div class="carousel-item">
                         <img src="https://www.itl.cat/pngfile/big/40-401241_similar-wallpaper-images-tom-et-jerry-disney.jpg" alt="New York" width="1100" height="500"class="rounded mx-auto d-block">
                         <div class="carousel-caption">
@@ -383,6 +391,7 @@
                         <p>I am crazy Normal is boooring For Mee!</p>
                         </div>   
                     </div>
+                    
                 </div>
             <a class="carousel-control-prev" href="#demo" data-slide="prev">
               <span class="carousel-control-prev-icon"></span>
@@ -391,7 +400,8 @@
               <span class="carousel-control-next-icon"></span>
             </a>
         </div>
-    </div>
+      </div>
+
 	<div class="menu-bottom-bg"><img src="images/menu-bottom-bg.png" alt="menu-bg"></div>
 	</section>
     <section class="about-pizzon ptb">
@@ -406,6 +416,7 @@
 						<p class="online-des">Sit amet, consectetur adipiscing elit quisque eget maximus velit, non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit. Sit amet, consectetur adipiscing elit quisque eget maximus velit, non eleifend libero curabitur Sit amet, consectetur adipiscing elit quisque eget maximus velit, non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit. Sit amet, consectetur adipiscing elit quisque eget maximus velit, non eleifend libero curabitur </p>
 						<a href="about.html" class="about-more-z com-btn">view more</a>
 					</div>
+          
 				</div>
 				<div class="col-xl-6 col-lg-6 col-md-6">
 					<div class="about-pizzon-img">
