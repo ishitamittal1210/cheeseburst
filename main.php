@@ -99,17 +99,21 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 text-center speciality-box">
+                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
                         <div class="speciality-img"><a href="shop-detail.html"><img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/speciality-1.jpg" alt="speciality" class="spec-image"></a></div>
                         <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">Mexican Green Wave</a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 text-center speciality-box">
+                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
                         <div class="speciality-img"><a href="shop-detail.html"><img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/speciality-2.jpg" alt="speciality" class="spec-image"></a></div>
                         <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">Double Cheese Pizza</a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 text-center speciality-box">
+                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
                         <div class="speciality-img"><a href="shop-detail.html"><img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/speciality-3.jpg" alt="speciality" class="spec-image"></a></div>
                         <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">margherita pizza</a>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
+                        <div class="speciality-img"><a href="shop-detail.html"><img src="./images/veg-burger.gif" height='400px' width='400px' alt="speciality" class="spec-image"></a></div>
+                        <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">Veg Burger</a>
                     </div>
                 </div>
                 <div class="row">
