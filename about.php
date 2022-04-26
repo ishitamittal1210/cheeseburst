@@ -66,7 +66,7 @@
 
             </div>
             
-            <div class='form-group col-md-5 text-center'>
+            <div class='form-group col-md-5 p-5 text-center'>
                 <img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/317122_1100-1100x628.jpg" 
                 alt="dishes" 
                 width= '100%'
