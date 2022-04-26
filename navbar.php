@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark ">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" style="font-size: 20px;">
         <a class="navbar-brand" href="#"><span style="color: yellow">Cheese</span> <span style="color: red">Bur</span><span style="color: orange">st</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
           <span class="navbar-toggler-icon"></span>

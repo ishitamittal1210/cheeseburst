@@ -13,38 +13,6 @@
         *{
             margin: 0;
         }
-        /* header{
-            background-color: black;
-            color: white;
-            border-bottom: 2px solid white; 
-            width: 100%; 
-            height: 50%;
-            display: block; 
-        } */
-        /* .section1{
-            background-color: #999999;
-            color: white;
-            border-bottom: 2px solid white;
-            width: 100%; 
-            height: 50%;
-            display: block; 
-        } */
-        /* .section2{
-            background-color: black;
-            color: black;
-            border-bottom: 2px solid black; 
-            width: 100%; 
-            height: 50%;
-            display: block; 
-        } */
-        /* .section3{
-            background-color: black;
-            color: white;
-            border-bottom: 2px solid white; 
-            width: 100%; 
-            height: 50%;
-            display: block; 
-        } */
         /* Make the image fully responsive */
         .carousel-inner img {
             width: 50%;
@@ -84,50 +52,12 @@
                 </div>
             </div>
     </section>
+    <div class="order-bottom"><img src="images/fused.png" alt="layer" style="width: 100%;"></div>
     <!-- Order section ends here -->
-
-    <!-- our speciality starts -->
-    <div class="order-bottom"><img src="images/order-bottom.png" alt="layer"></div>
-        <section class="speciality ptb pt-140">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12">
-                        <div class="headding-part text-center pb-50">
-                            <p class="headding-sub">Fresh From Pizzon</p>
-                            <h2 class="headding-title text-uppercase font-weight-bold">our speciality</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
-                        <div class="speciality-img"><a href="shop-detail.html"><img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/speciality-1.jpg" alt="speciality" class="spec-image"></a></div>
-                        <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">Mexican Green Wave</a>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
-                        <div class="speciality-img"><a href="shop-detail.html"><img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/speciality-2.jpg" alt="speciality" class="spec-image"></a></div>
-                        <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">Double Cheese Pizza</a>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
-                        <div class="speciality-img"><a href="shop-detail.html"><img src="http://themes.templatescoder.com/pizzon/html/demo/1-0/images/speciality-3.jpg" alt="speciality" class="spec-image"></a></div>
-                        <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">margherita pizza</a>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-3 text-center speciality-box">
-                        <div class="speciality-img"><a href="shop-detail.html"><img src="./images/veg-burger.gif" height='400px' width='400px' alt="speciality" class="spec-image"></a></div>
-                        <a href="shop-detail.html" class="ser-title text-uppercase font-weight-bold">Veg Burger</a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 text-center">
-                        <a href="menu-1.html" class="com-btn">view more</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    <!-- our speciality ends  -->
 
     <!-- Special Menu -->
     <section class="special-menu ptb pt-140" style="background-color: black;color: white;">
-        <div class="menu-top-bg"><img src="images/menu-top-bg.png" alt="meu-bg" ></div>
+        <!-- <div class="menu-top-bg"><img src="images/menu-top-bg.png" alt="meu-bg" ></div> -->
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12">
