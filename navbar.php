@@ -11,7 +11,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#"><i class="fa fa-fw fa-bars"></i> Menu</a>
+              <a class="nav-link" href="menu.php"><i class="fa fa-fw fa-bars"></i> Menu</a>
             </li>
             
             <li class="nav-item">
