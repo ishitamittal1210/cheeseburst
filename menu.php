@@ -300,32 +300,32 @@ h2{color: white;}
                                 <div class="card card-body">
                                     <img class="img-fluid" src="images/Tikka--Chaap/Mushroom-Tikka.jpg">
 
-                                    <h5 class="card-title">Paneer Tikka</h5>
+                                    <h5 class="card-title">Mushroom Tikka</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/gym-chaap.jpg">
+                                    <img class="img-fluid" src="images/Tikka--Chaap/masala-chaap.jpg">
 
-                                    <h5 class="card-title">Gym Chaap</h5>
+                                    <h5 class="card-title">Masala Chaap</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/kadhai-chaap.jpg">
+                                    <img class="img-fluid" src="images/Tikka--Chaap/Afghani-Soya-Chaap-scaled.webp">
 
-                                    <h5 class="card-title">Kadhai Chaap</h5>
+                                    <h5 class="card-title">Afghani Soya Chaap</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/malai-chaap.jpg">
+                                    <img class="img-fluid" src="images/Tikka--Chaap/Malai-Chaap.jpeg">
 
                                     <h5 class="card-title">Malai Chaap</h5>
                                 </div>
@@ -334,9 +334,9 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/veg-mutton-chaap.jpg">
+                                    <img class="img-fluid" src="images/Tikka--Chaap/Tandori-Chaap.jpg">
 
-                                    <h5 class="card-title">VEG Mutton Chaap</h5>
+                                    <h5 class="card-title">Tandori Chapp</h5>
                                 </div>
                             </div>
                         </div>
@@ -364,54 +364,63 @@ h2{color: white;}
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/boozy.jpg">
+                                    <img class="img-fluid" src="images/Burger/Copycat-In-N-Out-Vegan.jpeg">
 
-                                    <h5 class="card-title">--</h5>
+                                    <h5 class="card-title">Copycat In-N-Out Vegan</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/Jaisalmer.jfif">
+                                    <img class="img-fluid" src="images/Burger/Cheesy-Portobello-Burgers .jpg">
 
-                                    <h5 class="card-title">--</h5>
+                                    <h5 class="card-title">Cheesy Portobello Burgers</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/jaljeera.jpg">
+                                    <img class="img-fluid" src="images/Burger/Classic-Veggie-Burger.png">
 
-                                    <h5 class="card-title">--</h5>
+                                    <h5 class="card-title">Classic Veggie Burger</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/mango-mojito.jpg">
+                                    <img class="img-fluid" src="images/Burger/Falafel-Burgers.jpg">
 
-                                    <h5 class="card-title">--</h5>
+                                    <h5 class="card-title">Falafel Burgers</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/nimbu.jfif">
+                                    <img class="img-fluid" src="images/Burger/Portobello-Mushroom-Burger .webp">
 
-                                    <h5 class="card-title">--</h5>
+                                    <h5 class="card-title">Portobell Mushroom Burger </h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/tamarind.jpg">
+                                    <img class="img-fluid" src="images/Burger/ultimate-veggie-burger.webp">
 
-                                    <h5 class="card-title">--</h5>
+                                    <h5 class="card-title">Ultimate Veggie Burger</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Burger/big-mac.jpg">
+
+                                    <h5 class="card-title">Big Mac</h5>
                                 </div>
                             </div>
                         </div>
