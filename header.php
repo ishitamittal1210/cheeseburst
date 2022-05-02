@@ -79,7 +79,7 @@
             <video playsinline="" autoplay="" muted="" loop="" style="width: 100%;"> 
               <source src="images/HORNO.mp4" type="video/mp4"></video>
               <div class="overlayText">
-                <h1 id="topText">Food Bursting with Flovour</h1>
+                <h1 id="topText">Food Bursting with Flavour</h1>
               </div>
           </div>
     </header>

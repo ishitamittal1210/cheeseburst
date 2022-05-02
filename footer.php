@@ -46,9 +46,31 @@
 								<p><a href="#">Wishlist</a></p>
 								<!-- </p> -->
 						</div>
-					</div>
-					
+					</div>				
 
+				</div>
+
+				<!-- WhatsApp Button -->
+				<div class='row'>
+					<div class='col-md-12 text-center'>
+						<div class='Whatsapp-link'>
+
+						<hr>
+
+						<a href='https://api.whatsapp.com/send?phone=916283663556'><i class="fa fa-whatsapp" style='font-size: 50px; color: white; background-color: green;padding: 20px; border-radius: 10px;' aria-hidden="true"></i></a>
+							<!-- <a href="https://api.whatsapp.com/send?phone=916283663556" 
+							style="
+							display: inline-block; 
+							padding:16px; 
+							border-radius: 8px; 
+							background-color: #25D366; 
+							color: #fff; 
+							text-decoration: none; 
+							font-family: sans-serif; 
+							font-size: 16px;
+							">Contact us on WhatsApp</a> -->
+						</div>
+					</div>
 				</div>
 
 				<!-- footer message and social icons -->

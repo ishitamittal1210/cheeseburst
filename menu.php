@@ -67,7 +67,8 @@ h2{color: white;}
     <body style="background-color: black;">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" style="font-size: 20px;">
-        <a class="navbar-brand" href="#"><span style="color: yellow">Cheese</span> <span style="color: red">Bur</span><span style="color: orange">st</span></a>
+    
+        <a class="navbar-brand" style='font-size: 30px;' href="#"><span style="color: yellow;">Cheese</span> <span style="color: red">Bur</span><span style="color: orange">st</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -105,10 +106,13 @@ h2{color: white;}
       <!-- Navbar Ends -->
         <header style="margin-top: 60px;">
           <div>
-            <center><img src="images/drinks.gif" alt="drinks" width="100%" height="500px"></center>
+            <center><img src="images/drinks.gif" alt="drinks" width="100%"></center>
           </div>
         </header>
 <!------------------------------------------ COURSE MEALS --------------------------------------->
+<?php require './back2top.php' ?> 
+    
+
         <h1 class="w3-center" style="background-color: red;color: white;padding: 25px;">COURSE MEALS</h1>
         <!-- Pizza -->
         <div class="container text-center my-3">

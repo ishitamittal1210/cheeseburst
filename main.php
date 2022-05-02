@@ -28,6 +28,8 @@
     </style>
 </head>
 <body>
+
+    <?php require './back2top.php' ?> 
     <!-- Order section start here -->
     <div class="order-top" style="background-color: black;"><img src="images/order-top.png" alt="layer"></div>
     <section class="order-section ptb">
