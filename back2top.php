@@ -17,7 +17,7 @@ body {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-image: linear-gradient(#5e0000, #380101);
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -27,7 +27,7 @@ body {
 
 #myBtn:hover {
   /* background-color: #555; */
-  box-shadow: 0 0 5px red, 0 0 10px red, 0 0 20px red;
+  box-shadow: 0 0 5px black, 0 0 10px black, 0 0 20px black;
 }
 </style>
 </head>

@@ -1,4 +1,7 @@
-<footer style="background-color: black; color:white">
+<footer style="
+
+background-image: linear-gradient(#5e0000, #380101);
+color:white">
 		<div class="container-fluid p-5">
 
 			<div class="footer">
@@ -49,64 +52,68 @@
 					</div>				
 
 				</div>
-
 				<!-- WhatsApp Button -->
 				<div class='row'>
-					<div class='col-md-12 text-center'>
-						<div class='Whatsapp-link'>
+
+				
+
+					<div class='col-md-4 text-left'>
+					<hr>
+						<h2>Follow Us on Social Media:
+					</div>
+
+					<div class='col-md-8 text-center'>
+
+						<div class='social-links'>						
+
+							<a href='https://api.whatsapp.com/send?phone=916283663556'>
+								<i class="fa fa-whatsapp" 
+								style='font-size: 50px; 
+								color: white; 
+								background-color: green; 
+								padding: 20px; 
+								border-radius: 10px;
+								' aria-hidden="true"></i>
+							</a>
+
+							<a href="https://m.me/aashrey.jain.9">
+								<i class="fa fa-facebook-square" 
+								style='
+								font-size: 50px; 
+								color: white; 
+								background-color: blue; 
+								padding: 20px; 
+								border-radius: 10px;
+								'
+								aria-hidden="true"></i>
+							</a>
+
+							<a href="https://www.instagram.com/aashreyj">
+								<i class="fa fa-instagram" 
+								style="
+								font-size: 55px;
+								padding: 18px; 
+								border-radius: 10px; 
+								background-color:#da426d;
+								background-image: linear-gradient(to bottom right, blue, rgb(204, 47, 73), yellow);
+								color: white;
+								"
+								aria-hidden="true"></i>
+							</a>
+
+							
+						</div>
 
 						<hr>
-
-						<a href='https://api.whatsapp.com/send?phone=916283663556'><i class="fa fa-whatsapp" style='font-size: 50px; color: white; background-color: green;padding: 20px; border-radius: 10px;' aria-hidden="true"></i></a>
-							<!-- <a href="https://api.whatsapp.com/send?phone=916283663556" 
-							style="
-							display: inline-block; 
-							padding:16px; 
-							border-radius: 8px; 
-							background-color: #25D366; 
-							color: #fff; 
-							text-decoration: none; 
-							font-family: sans-serif; 
-							font-size: 16px;
-							">Contact us on WhatsApp</a> -->
-						</div>
 					</div>
+					
 				</div>
 
 				<!-- footer message and social icons -->
 				<div class='container-fluid p-4 row'>
 
-					<div class="col-xl-10 col-lg-10 col-md-10">
+					<div class="col-xl-12 col-lg-12 col-md-12">
 						<p class="copy-text mt-4">© CheeseBurst All Rights Reserved. Designed by <a href="https://templatescoder.com/" target="_blank">TemplatesCoder</a></p>
-					</div>
-
-					<div class="col-xl-2 col-lg-2 col-md-2">
-						<div class='row p-4'>
-							<div class='col-xl-3 col-lg-3 col-md-3'>
-							<a href="#" >
-										<i class="fa fa-facebook" aria-hidden="true"></i>
-									</a>
-							</div>
-							
-							<div class='col-xl-3 col-lg-3 col-md-3'>
-							<a href="#">
-										<i class="fa fa-twitter" aria-hidden="true"></i>
-									</a>
-							</div>
-							
-							<div class='col-xl-3 col-lg-3 col-md-3'>
-							<a href="#">
-										<i class="fa fa-linkedin" aria-hidden="true"></i>
-									</a>
-							</div>
-							
-							<div class='col-xl-3 col-lg-3 col-md-3'>
-							<a href="#">
-										<i class="fa fa-instagram" aria-hidden="true"></i>
-									</a>
-							</div>
-						</div>
-						
 					</div>
 
 				</div>
