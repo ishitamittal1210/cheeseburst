@@ -136,7 +136,7 @@ h2{color: white;}
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/Margherita.webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/Margherita.webp">
 
                                     <h5 class="card-title" style="color:white;">Margherita Pizza</h5>
                 <!-- <p class="card-text">Take your mojito cocktail to the next level with the warmth of complex spices. This jaljeera-inspired version explodes with a heady mix of cumin, coriander, and ginger.</p> -->
@@ -146,7 +146,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/Fresh-tomato-pizza-.webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/Fresh-tomato-pizza-.webp">
 
                                     <h5 class="card-title" style="color:white;">Tomato Pizza</h5>
                 <!-- <p class="card-text">When I have ripe mangoes on hand, trust that I’ll make at least a pitcher of this mango mojito.</p> -->
@@ -156,7 +156,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/Four_Cheese_Pizza.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/Four_Cheese_Pizza.jpg">
 
                                     <h5 class="card-title" style="color:white;">Four Cheese Pizza</h5>
                                 </div>
@@ -165,7 +165,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/Four_Vegetable_PIzza.gif">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/Four_Vegetable_PIzza.gif">
 
                                     <h5 class="card-title" style="color:white;">Four Cheese Pizza</h5>
                                 </div>
@@ -174,7 +174,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/Tandori_Pizza.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/Tandori_Pizza.jpg">
 
                                     <h5 class="card-title" style="color:white;">Tandori Pizza</h5>
                                 </div>
@@ -183,7 +183,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/hawaiian-thin-crust-pizza-3.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/hawaiian-thin-crust-pizza-3.jpg">
 
                                     <h5 class="card-title" style="color:white;">Thin Crust Hawaiian pizza</h5>
                                 </div>
@@ -192,7 +192,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/pepper-pizza-oh-1733614-x.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/pepper-pizza-oh-1733614-x.jpg">
 
                                     <h5 class="card-title" style="color:white;">Three pepper pizza</h5>
                                 </div>
@@ -201,7 +201,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Pizza/Golden_Corn_Pizza.webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Pizza/Golden_Corn_Pizza.webp">
 
                                     <h5 class="card-title" style="color:white;">Golden Corn Pizza</h5>
                                 </div>
@@ -231,7 +231,7 @@ h2{color: white;}
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Manchurians/Veg-Manchurian-recipe_5.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Manchurians/Veg-Manchurian-recipe_5.jpg">
 
                                     <h5 class="card-title" style="color:white;">Veg Manchuria</h5>
                                 </div>
@@ -240,7 +240,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Manchurians/Gobi_Manchurian.jpeg">
+                                    <img class="img-fluid" src="images/Course-Meals/Manchurians/Gobi_Manchurian.jpeg">
 
                                     <h5 class="card-title" style="color:white;">Gobi Manchuria</h5>
                                 </div>
@@ -249,7 +249,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Manchurians/mushroom-manchurian-recipe.webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Manchurians/mushroom-manchurian-recipe.webp">
 
                                     <h5 class="card-title" style="color:white;">Mushroom Manchuria</h5>
                                 </div>
@@ -258,7 +258,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Manchurians/paneer-manchurian-recipe.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Manchurians/paneer-manchurian-recipe.jpg">
 
                                     <h5 class="card-title" style="color:white;">Panner Manchuria</h5>
                                 </div>
@@ -267,7 +267,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Manchurians/baby-corn-manchurian.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Manchurians/baby-corn-manchurian.jpg">
 
                                     <h5 class="card-title" style="color:white;">Baby Corn Manchuria</h5>
                                 </div>
@@ -276,7 +276,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Manchurians/idli-manchurian-recipe-1-500x500.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Manchurians/idli-manchurian-recipe-1-500x500.jpg">
 
                                     <h5 class="card-title" style="color:white;">Idly Manchuria</h5>
                                 </div>
@@ -306,7 +306,7 @@ h2{color: white;}
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/tikka.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Tikka--Chaap/tikka.jpg">
 
                                     <h5 class="card-title" style="color:white;">Paneer Tikka</h5>
                                 </div>
@@ -315,7 +315,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/Mushroom-Tikka.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Tikka--Chaap/Mushroom-Tikka.jpg">
 
                                     <h5 class="card-title" style="color:white;">Mushroom Tikka</h5>
                                 </div>
@@ -324,7 +324,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/masala-chaap.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Tikka--Chaap/masala-chaap.jpg">
 
                                     <h5 class="card-title" style="color:white;">Masala Chaap</h5>
                                 </div>
@@ -333,7 +333,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/Afghani-Soya-Chaap-scaled.webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Tikka--Chaap/Afghani-Soya-Chaap-scaled.webp">
 
                                     <h5 class="card-title" style="color:white;">Afghani Soya Chaap</h5>
                                 </div>
@@ -342,7 +342,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/Malai-Chaap.jpeg">
+                                    <img class="img-fluid" src="images/Course-Meals/Tikka--Chaap/Malai-Chaap.jpeg">
 
                                     <h5 class="card-title" style="color:white;">Malai Chaap</h5>
                                 </div>
@@ -351,7 +351,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Tikka--Chaap/Tandori-Chaap.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Tikka--Chaap/Tandori-Chaap.jpg">
 
                                     <h5 class="card-title" style="color:white;">Tandori Chapp</h5>
                                 </div>
@@ -381,7 +381,7 @@ h2{color: white;}
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/Copycat-In-N-Out-Vegan.jpeg">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/Copycat-In-N-Out-Vegan.jpeg">
 
                                     <h5 class="card-title" style="color:white;">Copycat In-N-Out Vegan</h5>
                                 </div>
@@ -390,7 +390,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/Cheesy-Portobello-Burgers .jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/Cheesy-Portobello-Burgers .jpg">
 
                                     <h5 class="card-title" style="color:white;">Cheesy Portobello Burgers</h5>
                                 </div>
@@ -399,7 +399,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/Classic-Veggie-Burger.png">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/Classic-Veggie-Burger.png">
 
                                     <h5 class="card-title" style="color:white;">Classic Veggie Burger</h5>
                                 </div>
@@ -408,7 +408,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/Falafel-Burgers.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/Falafel-Burgers.jpg">
 
                                     <h5 class="card-title" style="color:white;">Falafel Burgers</h5>
                                 </div>
@@ -417,7 +417,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/Portobello-Mushroom-Burger .webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/Portobello-Mushroom-Burger .webp">
 
                                     <h5 class="card-title" style="color:white;">Portobell Mushroom Burger </h5>
                                 </div>
@@ -426,7 +426,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/ultimate-veggie-burger.webp">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/ultimate-veggie-burger.webp">
 
                                     <h5 class="card-title" style="color:white;">Ultimate Veggie Burger</h5>
                                 </div>
@@ -435,7 +435,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Burger/big-mac.jpg">
+                                    <img class="img-fluid" src="images/Course-Meals/Burger/big-mac.jpg">
 
                                     <h5 class="card-title" style="color:white;">Big Mac</h5>
                                 </div>
@@ -463,12 +463,12 @@ h2{color: white;}
         <div class="container text-center my-3">
             <h2 class="font-weight-light">SOFT DRINKS</h2>
             <div class="row mx-auto my-auto">
-                <div id="recipeCarousel5" class="carousel slide w-100" data-ride="carousel">
+                <div id="recipeCarousel4" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner w-100" role="listbox">
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body" >
-                                    <img class="img-fluid" src="images/Soft Drinks/Coke.webp">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Coke.webp">
 
                                     <h5 class="card-title">Coke</h5> 
                <!-- <p class="card-text">Take your mojito cocktail to the next level with the warmth of complex spices. This jaljeera-inspired version explodes with a heady mix of cumin, coriander, and ginger.</p> -->
@@ -478,7 +478,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Pepsi.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Pepsi.jpg">
 
                                     <h5 class="card-title" style="color:white;">Pepsi</h5> 
                 <!-- <p class="card-text">When I have ripe mangoes on hand, trust that I’ll make at least a pitcher of this mango mojito.</p> -->
@@ -488,7 +488,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Sprite.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Sprite.jpg">
 
                                     <h5 class="card-title" style="color:white;">Sprite</h5> 
                                 </div>
@@ -497,7 +497,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Maaza-mango-drink.webp">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Maaza-mango-drink.webp">
 
                                     <h5 class="card-title" style="color:white;">Maaza</h5> 
                                 </div>
@@ -506,7 +506,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Fanta.png">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Fanta.png">
 
                                     <h5 class="card-title" style="color:white;">Fanta</h5> 
                                 </div>
@@ -515,7 +515,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/7UP.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/7UP.jpg">
 
                                     <h5 class="card-title" style="color:white;">7UP</h5> 
                                 </div>
@@ -524,7 +524,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Limca.jpeg">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Limca.jpeg">
 
                                     <h5 class="card-title" style="color:white;">Limca</h5> 
                                 </div>
@@ -533,7 +533,7 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Mountain_Dew.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Mountain_Dew.jpg">
 
                                     <h5 class="card-title" style="color:white;">Mountain Dew</h5> 
                                 </div>
@@ -542,9 +542,111 @@ h2{color: white;}
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Soft Drinks/Mirinda.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Soft Drinks/Mirinda.jpg">
 
                                     <h5 class="card-title" style="color:white;">Mirinda</h5> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev w-auto" href="#recipeCarousel4" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next w-auto" href="#recipeCarousel4" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
+        </div>
+        <!-- Soft Drinks Ends -->
+
+        <!-- Beer -->
+        <div class="container text-center my-3">
+            <h2 class="font-weight-light">BEERS</h2>
+            <div class="row mx-auto my-auto">
+                <div id="recipeCarousel5" class="carousel slide w-100" data-ride="carousel">
+                    <div class="carousel-inner w-100" role="listbox">
+                        <div class="carousel-item active">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Kingfisher.jpeg">
+
+                                    <h5 class="card-title" style="color:white;">Kingfisher</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Carlsberg.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Carlsberg</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Budweiser.webp">
+
+                                    <h5 class="card-title" style="color:white;">Budweiser</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Tuborg.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Tuborg</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/heineken.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Heineken</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Foster's.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Foster's</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Haywards_5000.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Haywards 5000</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/Godfather.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Godfather</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Beer/hoegaarden.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Hoegaarden</h5> 
                                 </div>
                             </div>
                         </div>
@@ -561,92 +663,92 @@ h2{color: white;}
             </div>
             <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
         </div>
-        <!-- Soft Drinks Ends -->
+        <!-- BEER ENDS -->
 
-        <!-- Beer -->
+        <!-- WINE -->
         <div class="container text-center my-3">
-            <h2 class="font-weight-light">BEERS</h2>
+            <h2 class="font-weight-light">WINES</h2>
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel6" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner w-100" role="listbox">
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Kingfisher.jpeg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Fratelli Sangiovese Bianco.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Kingfisher</h5> 
+                                    <h5 class="card-title" style="color:white;">Fratelli Sangiovese Bianco</h5> 
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Carlsberg.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Krsma Sangiovese.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Carlsberg</h5> 
+                                    <h5 class="card-title" style="color:white;">Krsma Sangiovese</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Budweiser.webp">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Charosa Selections Sauvignon Blanc.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Budweiser</h5> 
+                                    <h5 class="card-title" style="color:white;">Charosa Selections Sauvignon Blanc</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Tuborg.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/York Sparking Cuvee Brut.webp">
 
-                                    <h5 class="card-title" style="color:white;">Tuborg</h5> 
+                                    <h5 class="card-title" style="color:white;">York Sparking Cuvee Brut</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/heineken.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Myra-Cabernet-Sauvignon.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Heineken</h5> 
+                                    <h5 class="card-title" style="color:white;">Myra-Cabernet-Sauvignon</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Foster's.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Sula Dindori Reserve Shiraz.webp">
 
-                                    <h5 class="card-title" style="color:white;">Foster's</h5> 
+                                    <h5 class="card-title" style="color:white;">Sula Dindori Reserve Shiraz</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Haywards_5000.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Four Seasons Blush.webp">
 
-                                    <h5 class="card-title" style="color:white;">Haywards 5000</h5> 
+                                    <h5 class="card-title" style="color:white;">Four Seasons Blush</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/Godfather.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/Zampa Soiree Brut.webp">
 
-                                    <h5 class="card-title" style="color:white;">Godfather</h5> 
+                                    <h5 class="card-title" style="color:white;">Zampa Soiree Brut</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Beer/hoegaarden.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Wine/BIG-BANYAN-CABERNET-SAUVIGNON-750-ML.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Hoegaarden</h5> 
+                                    <h5 class="card-title" style="color:white;">BANYAN CABERNET SAUVIGNON</h5>
                                 </div>
                             </div>
                         </div>
@@ -663,92 +765,65 @@ h2{color: white;}
             </div>
             <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
         </div>
-        <!-- BEER ENDS -->
+        <!-- WINES ENDS -->
 
-        <!-- WINE -->
+        <!-- Cocktails -->
         <div class="container text-center my-3">
-            <h2 class="font-weight-light">WINES</h2>
+            <h2 class="font-weight-light">COCKTAILS & MOCKTAILS</h2>
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel7" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner w-100" role="listbox">
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Fratelli Sangiovese Bianco.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Cocktails/boozy.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Fratelli Sangiovese Bianco</h5> 
+                                    <h5 class="card-title" style="color:white;">Boozy Mango & Kaffir Lime Lassi</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Krsma Sangiovese.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Cocktails/Jaisalmer.jfif">
 
-                                    <h5 class="card-title" style="color:white;">Krsma Sangiovese</h5>
+                                    <h5 class="card-title" style="color:white;">Jaisalmer Golden Fort Kin</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Charosa Selections Sauvignon Blanc.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Cocktails/jaljeera.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Charosa Selections Sauvignon Blanc</h5>
+                                    <h5 class="card-title" style="color:white;">Indian Jaljeera Mojito</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/York Sparking Cuvee Brut.webp">
+                                    <img class="img-fluid" src="images/Drinks/Cocktails/mango-mojito.jpg">
 
-                                    <h5 class="card-title" style="color:white;">York Sparking Cuvee Brut</h5>
+                                    <h5 class="card-title" style="color:white;">Mango Mojito </h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Myra-Cabernet-Sauvignon.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Cocktails/nimbu.jfif">
 
-                                    <h5 class="card-title" style="color:white;">Myra-Cabernet-Sauvignon</h5>
+                                    <h5 class="card-title" style="color:white;">Nimbu Pani Mint Julep</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Sula Dindori Reserve Shiraz.webp">
+                                    <img class="img-fluid" src="images/Drinks/Cocktails/tamarind.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Sula Dindori Reserve Shiraz</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="col-md-4">
-                                <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Four Seasons Blush.webp">
-
-                                    <h5 class="card-title" style="color:white;">Four Seasons Blush</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="col-md-4">
-                                <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/Zampa Soiree Brut.webp">
-
-                                    <h5 class="card-title" style="color:white;">Zampa Soiree Brut</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="col-md-4">
-                                <div class="card card-body">
-                                    <img class="img-fluid" src="images/Wine/BIG-BANYAN-CABERNET-SAUVIGNON-750-ML.jpg">
-
-                                    <h5 class="card-title" style="color:white;">BANYAN CABERNET SAUVIGNON</h5>
+                                    <h5 class="card-title" style="color:white;">Tamarind Ginger Margarita</h5>
                                 </div>
                             </div>
                         </div>
@@ -765,65 +840,83 @@ h2{color: white;}
             </div>
             <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
         </div>
-        <!-- WINES ENDS -->
+        <!-- Cocktails ENDS -->
 
-        <!-- Cocktails -->
+        <!-- Hot Drinks -->
         <div class="container text-center my-3">
-            <h2 class="font-weight-light">COCKTAILS & MOCKTAILS</h2>
+            <h2 class="font-weight-light">HOT DRINKS</h2>
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel8" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner w-100" role="listbox">
                         <div class="carousel-item active">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/boozy.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Chai.webp">
 
-                                    <h5 class="card-title" style="color:white;">Boozy Mango & Kaffir Lime Lassi</h5>
+                                    <h5 class="card-title" style="color:white;">Chai</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/Jaisalmer.jfif">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Coffee.webp">
 
-                                    <h5 class="card-title" style="color:white;">Jaisalmer Golden Fort Kin</h5>
+                                    <h5 class="card-title" style="color:white;">Coffee</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/jaljeera.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Freshmint.webp">
 
-                                    <h5 class="card-title" style="color:white;">Indian Jaljeera Mojito</h5>
+                                    <h5 class="card-title" style="color:white;">Freshmint</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/mango-mojito.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Fruittea.webp">
 
-                                    <h5 class="card-title" style="color:white;">Mango Mojito </h5>
+                                    <h5 class="card-title" style="color:white;">Fruit Tea</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/nimbu.jfif">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Ginger.webp">
 
-                                    <h5 class="card-title" style="color:white;">Nimbu Pani Mint Julep</h5>
+                                    <h5 class="card-title" style="color:white;">Ginger Tea</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Cocktails/tamarind.jpg">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Greentea.webp">
 
-                                    <h5 class="card-title" style="color:white;">Tamarind Ginger Margarita</h5>
+                                    <h5 class="card-title" style="color:white;">Green Tea</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Hotchocolate.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Hot Chocolate</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Drinks/Hot Drinks/Lemon.webp">
+
+                                    <h5 class="card-title" style="color:white;">Lemon Tea</h5>
                                 </div>
                             </div>
                         </div>
@@ -840,83 +933,79 @@ h2{color: white;}
             </div>
             <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
         </div>
-        <!-- Cocktails ENDS -->
+        <!-- HOT DRINKS ENDS -->
 
-        <!-- Hot Drinks -->
+<!-------------------------------------------- DESSERTS --------------------------------------------->
+
+<h1 class="w3-center text-center" style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding:25px;">DESSERTS</h1>
+    <!-- Sweets -->
         <div class="container text-center my-3">
-            <h2 class="font-weight-light">HOT DRINKS</h2>
+            <h2 class="font-weight-light">Sweets</h2>
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel9" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner w-100" role="listbox">
                         <div class="carousel-item active">
                             <div class="col-md-4">
-                                <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Chai.webp">
+                                <div class="card card-body" >
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Seviyan.webp">
 
-                                    <h5 class="card-title" style="color:white;">Chai</h5>
+                                    <h5 class="card-title">Seviyan</h5> 
+               <!-- <p class="card-text">Take your mojito cocktail to the next level with the warmth of complex spices. This jaljeera-inspired version explodes with a heady mix of cumin, coriander, and ginger.</p> -->
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Coffee.webp">
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Gajrela.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Coffee</h5>
+                                    <h5 class="card-title" style="color:white;">Gajrela</h5> 
+                <!-- <p class="card-text">When I have ripe mangoes on hand, trust that I’ll make at least a pitcher of this mango mojito.</p> -->
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Freshmint.webp">
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Jalebi.png">
 
-                                    <h5 class="card-title" style="color:white;">Freshmint</h5>
+                                    <h5 class="card-title" style="color:white;">Jalebi</h5> 
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Fruittea.webp">
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Rasmalai.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Fruit Tea</h5>
+                                    <h5 class="card-title" style="color:white;">Rasmalai</h5> 
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Ginger.webp">
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Badam-Kheer.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Ginger Tea</h5>
+                                    <h5 class="card-title" style="color:white;">Badam Kheer</h5> 
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Greentea.webp">
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Rasgulla.webp">
 
-                                    <h5 class="card-title" style="color:white;">Green Tea</h5>
+                                    <h5 class="card-title" style="color:white;">Rasgulla</h5> 
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="col-md-4">
                                 <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Hotchocolate.jpg">
+                                    <img class="img-fluid" src="images/Desearts/Sweets/Gulab Jamun.jpg">
 
-                                    <h5 class="card-title" style="color:white;">Hot Chocolate</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="col-md-4">
-                                <div class="card card-body">
-                                    <img class="img-fluid" src="images/Hot Drinks/Lemon.webp">
-
-                                    <h5 class="card-title" style="color:white;">Lemon Tea</h5>
+                                    <h5 class="card-title" style="color:white;">Gulab Jamun</h5> 
                                 </div>
                             </div>
                         </div>
@@ -933,7 +1022,286 @@ h2{color: white;}
             </div>
             <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
         </div>
-        <!-- HOT DRINKS ENDS -->
+        <!-- Sweets Ends -->
+
+        <!-- Cakes -->
+        <div class="container text-center my-3">
+            <h2 class="font-weight-light">CAKES</h2>
+            <div class="row mx-auto my-auto">
+                <div id="recipeCarousel10" class="carousel slide w-100" data-ride="carousel">
+                    <div class="carousel-inner w-100" role="listbox">
+                        <div class="carousel-item active">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Black-Forest-cake.webp">
+
+                                    <h5 class="card-title" style="color:white;">Black Forest</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Cherry-Pineapple-Cake.webp">
+
+                                    <h5 class="card-title" style="color:white;">Pineapple</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Mouth-Watering-Crunchy-Butterscotch.webp">
+
+                                    <h5 class="card-title" style="color:white;">Butterscotch</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Red-velvet-cake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Red Velvet</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Fruit-cake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Fruit Cake</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Strawberry-Cake.avif">
+
+                                    <h5 class="card-title" style="color:white;">Strawberry Cake</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Blue-Berry.jpeg">
+
+                                    <h5 class="card-title" style="color:white;">BlueBerry</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/Mango-cake.jpeg">
+
+                                    <h5 class="card-title" style="color:white;">Mango Cake</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Cakes/fresh-vanilla-cake.webp">
+
+                                    <h5 class="card-title" style="color:white;">Vanilla Cake</h5> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev w-auto" href="#recipeCarousel10" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next w-auto" href="#recipeCarousel10" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
+        </div>
+        <!-- Cakes ENDS -->
+
+        <!-- Shakes -->
+        <div class="container text-center my-3">
+            <h2 class="font-weight-light">SHAKES</h2>
+            <div class="row mx-auto my-auto">
+                <div id="recipeCarousel11" class="carousel slide w-100" data-ride="carousel">
+                    <div class="carousel-inner w-100" role="listbox">
+                        <div class="carousel-item active">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/Caramel-corn-milkshake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Caramel Corn</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/Delicious-Healthy-Strawberry-Shake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Strawberry Shake</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/Kit-kat-Milkshakes.png">
+
+                                    <h5 class="card-title" style="color:white;">Kit Kat</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/StrawberryOreoMilkshake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Strawberry Oreo</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/Vanilla-Milkshake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Vanilla</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/ButterScotch.png">
+
+                                    <h5 class="card-title" style="color:white;">ButterScotch</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/mango-shake.webp">
+
+                                    <h5 class="card-title" style="color:white;">Mango</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/BlueBerry.webp">
+
+                                    <h5 class="card-title" style="color:white;">BlueBerry</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Shakes/Bourbon-vanilla-and-chocolate-milkshake.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Bourbon ChocoVanilla</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev w-auto" href="#recipeCarousel11" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next w-auto" href="#recipeCarousel11" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
+        </div>
+        <!-- WINES ENDS -->
+
+        <!-- Ice Creams-->
+        <div class="container text-center my-3">
+            <h2 class="font-weight-light">ICE CREAMS</h2>
+            <div class="row mx-auto my-auto">
+                <div id="recipeCarousel12" class="carousel slide w-100" data-ride="carousel">
+                    <div class="carousel-inner w-100" role="listbox">
+                        <div class="carousel-item active">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Ice-Cream/butterscotch-ice-cream.jpg">
+
+                                    <h5 class="card-title" style="color:white;">ButterScotch</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Ice-Cream/Strawberry.webp">
+
+                                    <h5 class="card-title" style="color:white;">Strawberry</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Ice-Cream/vanilla custard ice cream.JPG">
+
+                                    <h5 class="card-title" style="color:white;">Vanilla</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Ice-Cream/Blueberry-Ice-Cream.jpg">
+
+                                    <h5 class="card-title" style="color:white;">BlueBerry</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Ice-Cream/Pista-Badam.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Pista Badam</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/Desearts/Ice-Cream/pan-masala-ice-cream.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Paan</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev w-auto" href="#recipeCarousel12" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next w-auto" href="#recipeCarousel12" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
+        </div>
+        <!-- Ice Creams ENDS -->
 
         <script>
 //             $('#recipeCarousel, #recipeCarousel1, #recipeCarousel2').carousel({
