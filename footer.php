@@ -55,16 +55,13 @@ color:white">
 				<!-- WhatsApp Button -->
 				<div class='row'>
 
-				
+					<div class='col-md-12 text-center'>
 
-					<div class='col-md-4 text-left'>
-					<hr>
-						<h2>Follow Us on Social Media:
-					</div>
+						<div class='social-links'>	
 
-					<div class='col-md-8 text-center'>
-
-						<div class='social-links'>						
+							<h2>Follow Us on Social Media:</h2>
+							
+							<br/>					
 
 							<a href='https://api.whatsapp.com/send?phone=918168385317'>
 								<i class="fa fa-whatsapp" 
@@ -104,7 +101,6 @@ color:white">
 							
 						</div>
 
-						<hr>
 					</div>
 					
 				</div>
