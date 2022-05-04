@@ -12,7 +12,7 @@
         <a href='#course-meals' class='col-sm-3 p-3 bm1 text-light'>
             Meals
         </a>
-        <a href='#course-meals' class='col-sm-3 p-3 bm1 text-light'>
+        <a href='#Indian-Specials' class='col-sm-3 p-3 bm1 text-light'>
             Indian Special
         </a>
 

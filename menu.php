@@ -465,6 +465,157 @@ background-image: linear-gradient(#5e0000, #380101);
         </div>
         <!-- Burger ENDS -->
 
+<!-------------------------------------------- South Indian--------------------------------------------->
+
+<h1 class="w3-center text-center" style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding:25px;" id="Indian-Specials">South Dishes</h1>
+    <!-- Sweets -->
+        <div class="container text-center my-3">
+            <!-- <h2 class="font-weight-light"></h2> -->
+            <div class="row mx-auto my-auto">
+                <div id="recipeCarousel13" class="carousel slide w-100" data-ride="carousel">
+                    <div class="carousel-inner w-100" role="listbox">
+                        <div class="carousel-item active">
+                            <div class="col-md-4">
+                                <div class="card card-body" >
+                                    <img class="img-fluid" src="images/South Dishes/Dosa.jpeg">
+
+                                    <h5 class="card-title">Dosa</h5> 
+               <!-- <p class="card-text">Take your mojito cocktail to the next level with the warmth of complex spices. This jaljeera-inspired version explodes with a heady mix of cumin, coriander, and ginger.</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/South Dishes/Idle-Sambhar-Chutney.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Idle</h5> 
+                <!-- <p class="card-text">When I have ripe mangoes on hand, trust that I’ll make at least a pitcher of this mango mojito.</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/South Dishes/Rasam.jpeg">
+
+                                    <h5 class="card-title" style="color:white;">Rasam</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/South Dishes/Sambar-vadai.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Sambar Vadai</h5> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev w-auto" href="#recipeCarousel13" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next w-auto" href="#recipeCarousel13" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
+        </div>
+        <!-- South Ends -->
+
+<!-------------------------------------------- North Indian--------------------------------------------->
+
+<h1 class="w3-center text-center" style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding:25px;">North Dishes</h1>
+    <!-- Sweets -->
+        <div class="container text-center my-3">
+            <!-- <h2 class="font-weight-light"></h2> -->
+            <div class="row mx-auto my-auto">
+                <div id="recipeCarousel14" class="carousel slide w-100" data-ride="carousel">
+                    <div class="carousel-inner w-100" role="listbox">
+                        <div class="carousel-item active">
+                            <div class="col-md-4">
+                                <div class="card card-body" >
+                                    <img class="img-fluid" src="images/North Dishes/Aloo-Tikki-2-3.jpg">
+
+                                    <h5 class="card-title">Aloo Tikki</h5> 
+               <!-- <p class="card-text">Take your mojito cocktail to the next level with the warmth of complex spices. This jaljeera-inspired version explodes with a heady mix of cumin, coriander, and ginger.</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/North Dishes/Chola-Bhature.cms">
+
+                                    <h5 class="card-title" style="color:white;">Chola Bhature</h5> 
+                <!-- <p class="card-text">When I have ripe mangoes on hand, trust that I’ll make at least a pitcher of this mango mojito.</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/North Dishes/Gol-Gappa.cms">
+
+                                    <h5 class="card-title" style="color:white;">Gol Gappa</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/North Dishes/Kachori-chaat.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Kachori Chaat</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/North Dishes/Pav-Bhaji.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Pav Bhaji</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/North Dishes/Samosa.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Samosa</h5> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-md-4">
+                                <div class="card card-body">
+                                    <img class="img-fluid" src="images/North Dishes/Vegetarian-Noodles.jpg">
+
+                                    <h5 class="card-title" style="color:white;">Veg Noodles</h5> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev w-auto" href="#recipeCarousel14" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next w-auto" href="#recipeCarousel14" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <!-- <h5 class="mt-2">Advances one slide at a time</h5> -->
+        </div>
+        <!-- North Ends -->
+
 <!-------------------------------------------- DRINKS --------------------------------------------->
 
     <h1 class="w3-center text-center" 
