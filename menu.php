@@ -76,7 +76,7 @@ h2{color: white;}
     <!-- Navbar -->
     
    
-    <nav class="navbar navbar-expand-md bg-dark navbar-dark" 
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark" 
     style="
 font-size: 20px;
 box-shadow: 0 0 5px black, 0 0 10px black, 0 0 15px black;
@@ -97,6 +97,10 @@ background-image: linear-gradient(#5e0000, #380101);
 
             <li class="nav-item">
                 <a class="nav-link" href="menu.php"><i class="fa fa-fw fa-bars"></i> Menu</a>
+            </li>
+            
+            <li class="nav-item">
+                <a class="nav-link" href="#"><i class="fa fa-fw fa-search"></i> Search</a>
             </li>
 
             <li class="nav-item">
