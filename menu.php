@@ -72,10 +72,17 @@ h2{color: white;}
 
 </style>
 </head>
-    <body style="background-color: black;">
+    <body style="background-color: black;" class='w-100'>
     <!-- Navbar -->
-    <?php require 'navbar.php' ?>
-    <!-- <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top" style="font-size: 20px;">
+    
+   
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark" 
+    style="
+font-size: 20px;
+box-shadow: 0 0 5px black, 0 0 10px black, 0 0 15px black;
+background-image: linear-gradient(#5e0000, #380101);
+"
+    >
     
         <a class="navbar-brand" style='font-size: 30px;' href="#"><span style="color: yellow;">Cheese</span> <span style="color: red">Bur</span><span style="color: orange">st</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -91,10 +98,6 @@ h2{color: white;}
             <li class="nav-item">
                 <a class="nav-link" href="menu.php"><i class="fa fa-fw fa-bars"></i> Menu</a>
             </li>
-            
-            <li class="nav-item">
-                <a class="nav-link" href="#"><i class="fa fa-fw fa-search"></i> Search</a>
-            </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="about.php"><i class="fa fa-fw fa-address-card"></i>About</a>
@@ -102,16 +105,13 @@ h2{color: white;}
             
             <li class="nav-item">
                 <a class="nav-link" href="contact.php"><i class="fa fa-fw fa-envelope"></i> Contact Us</a>
-            </li> 
-
-            <li class="nav-item">
-                <a class="nav-link" href="#"><i class="fa fa-fw fa-user"></i> Login</a>
             </li>
-
 
             </ul>
         </div>  
-    </nav> -->
+    </nav>
+
+    <?php require 'bookmark.php' ?>
       <!-- Navbar Ends -->
         <!-- <header style="margin-top: 60px;">
           <div>
@@ -126,7 +126,12 @@ h2{color: white;}
         <?php require './back2top.php' ?> 
     
 
-        <h1 class="w3-center text-center" style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding: 25px;">COURSE MEALS</h1>
+        <h1 class="w3-center text-center" 
+        style="background-image: linear-gradient(#5e0000, #380101);
+        color: white; 
+        padding: 25px;"
+         id='course-meals'
+        >COURSE MEALS</h1>
         <!-- Pizza -->
         <div class="container text-center my-3">
             <h2 class="font-weight-light">PIZZAS</h2>
@@ -458,7 +463,10 @@ h2{color: white;}
 
 <!-------------------------------------------- DRINKS --------------------------------------------->
 
-    <h1 class="w3-center text-center" style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding:25px;">DRINKS</h1>
+    <h1 class="w3-center text-center" 
+    style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding:25px;"
+    id='drinks'
+    >DRINKS</h1>
     <!-- Soft Drinks -->
         <div class="container text-center my-3">
             <h2 class="font-weight-light">SOFT DRINKS</h2>
@@ -937,8 +945,14 @@ h2{color: white;}
 
 <!-------------------------------------------- DESSERTS --------------------------------------------->
 
-<h1 class="w3-center text-center" style="background-image: linear-gradient(#5e0000, #380101);;color: white;padding:25px;">DESSERTS</h1>
-    <!-- Sweets -->
+        <h1 class="w3-center text-center" 
+        style="background-image: linear-gradient(#5e0000, #380101); 
+        color: white; 
+        padding:25px;"
+        id='desserts'
+        >DESSERTS</h1>
+
+        <!--Sweets -->
         <div class="container text-center my-3">
             <h2 class="font-weight-light">Sweets</h2>
             <div class="row mx-auto my-auto">
