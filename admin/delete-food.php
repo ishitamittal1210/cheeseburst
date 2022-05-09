@@ -47,13 +47,13 @@
         if($res==true)
         {
             //Food Deleted
-            $_SESSION['delete'] = "<div class='text-success'>Food Deleted Successfully.</div>";\
+            $_SESSION['delete'] = "<div class='text-success'>Food Deleted Successfully.</div>";
             header('location:'.SITEURL.'admin/manage-food.php');
         }
         else
         {
             //Failed to Delete Food
-            $_SESSION['delete'] = "<div class='text-danger'>Failed to Delete Food.</div>";\
+            $_SESSION['delete'] = "<div class='text-danger'>Failed to Delete Food.</div>";
             header('location:'.SITEURL.'admin/manage-food.php');
         }
 
