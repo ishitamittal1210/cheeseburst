@@ -52,7 +52,7 @@ box-shadow: 0 0 5px black, 0 0 10px black, 0 0 15px black;
 background-image: linear-gradient(#5e0000, #380101);
 ">
         <a class="navbar-brand" style='
-        font-size: 30px;
+        font-size: 20px;
         ' href="#">
           <span style="color: yellow">Cheese</span>
           <span style="color: red">Bur</span><span style="color: orange">st</span>
@@ -80,7 +80,7 @@ background-image: linear-gradient(#5e0000, #380101);
             </li> -->
 
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo SITEURL; ?>about.php"><i class="fa  fa-address-card"></i>About</a>
+              <a class="nav-link" href="<?php echo SITEURL; ?>about.php"><i class="fa  fa-address-card"></i> About</a>
             </li>
             
             <li class="nav-item">

@@ -23,10 +23,11 @@
     </head>
 
     <body>
-        
-        <div class="login">
+        <div class='container-fluid'>
+        <div class="login p-5 w-50">
             <h1 class="text-center">Login</h1>
-            <br><br>
+
+            <hr>
 
             <?php 
                 if(isset($_SESSION['login']))
@@ -41,24 +42,25 @@
                     unset($_SESSION['no-login-message']);
                 }
             ?>
-            <br><br>
+
+            <br>
 
             <!-- Login Form Starts HEre -->
             <form action="" method="POST" class="text-center">
             Username: <br>
-            <input type="text" name="username" placeholder="Enter Username"><br><br>
+            <input type="text" name="username" class='form-control w-50' placeholder="Enter Username"><br><br>
 
             Password: <br>
-            <input type="password" name="password" placeholder="Enter Password"><br><br>
+            <input type="password" name="password" class='form-control w-50' placeholder="Enter Password"><br><br>
 
-            <input type="submit" name="submit" value="Login" class="btn btn-primary">
+            <input type="submit" name="submit" value="Login" class="btn btn-primary w-25">
             <br><br>
             </form>
             <!-- Login Form Ends HEre -->
 
             <p class="text-center">Created By - Nishit Sood</a></p>
         </div>
-
+            </div>
     </body>
 </html>
 

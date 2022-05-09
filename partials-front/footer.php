@@ -25,7 +25,7 @@ color:white">
                         
 					<div class="text-center col-xl-4 col-lg-4 col-md-4">
 						<div class="opening-hours">
-							<h2>Opening Hours</h2>
+							<h2 class='text-light'>Opening Hours</h2>
 							<hr>
 							<!-- <p> -->
 								<p>Mon - Tues :  <span>6.00 am - 10.00 pm</span></p>
@@ -38,7 +38,7 @@ color:white">
 
 					<div class="text-center col-xl-4 col-lg-4 col-md-4">
 						<div class="usefp-links">
-							<h2>Useful links</h2>
+							<h2 class='text-light'>Useful links</h2>
 							<hr>
 							<!-- <p> -->
 								
@@ -60,7 +60,7 @@ color:white">
 
 						<div class='social-links'>	
 
-							<h2>Follow Us on Social Media:</h2>
+							<h2 class='text-light'>Follow Us on Social Media:</h2>
 							
 							<br/>					
 
