@@ -54,7 +54,7 @@
                             <?php 
                                 //Create PHP Code to display categories from Database
                                 //1. CReate SQL to get all active categories from database
-                                $sql = "SELECT * FROM tbl_category WHERE active='Yes'";
+                                $sql = "SELECT * FROM `tbl_category` WHERE `active`='Yes'";
                                 
                                 //Executing qUery
                                 $res = mysqli_query($conn, $sql);
@@ -208,14 +208,9 @@
 
                 //Create a SQL Query to Save or Add food
                 // For Numerical we do not need to pass value inside quotes '' But for string value it is compulsory to add quotes ''
-                $sql2 = "INSERT INTO tbl_food SET 
-                    title = '$title',
-                    description = '$description',
-                    price = $price,
-                    image_name = '$image_name',
-                    category_id = $category,
-                    featured = '$featured',
-                    active = '$active'
+                $sql2 = "INSERT INTO 
+                    `tbl_food`(`title`, `description`, `price`, `image_name`, `category_id`, `featured`, `active`) 
+                    VALUES ('$title','$description','$price','$image_name','$category','$featured','$active')
                 ";
 
                 //Execute the Query
@@ -226,13 +221,13 @@
                 if($res2 == true)
                 {
                     //Data inserted Successfullly
-                    $_SESSION['add'] = "<div class='success'>Food Added Successfully.</div>";
+                    $_SESSION['add'] = "<div class='text-success'>Food Added Successfully.</div>";
                     header('location:'.SITEURL.'admin/manage-food.php');
                 }
                 else
                 {
                     //FAiled to Insert Data
-                    $_SESSION['add'] = "<div class='error'>Failed to Add Food.</div>";
+                    $_SESSION['add'] = "<div class='text-danger'>Failed to Add Food.</div>";
                     header('location:'.SITEURL.'admin/manage-food.php');
                 }
 

@@ -117,10 +117,10 @@
 
                         //Auto Rename our Image
                         //Get the Extension of our image (jpg, png, gif, etc) e.g. "specialfood1.jpg"
-                        $ext = end(explode('.', $image_name));
+                        // $ext = end(explode('.', $image_name));
 
                         //Rename the Image
-                        $image_name = "Food_Category_".rand(000, 999).'.'.$ext; // e.g. Food_Category_834.jpg
+                        $image_name = $_FILES['image']['name']; // e.g. Food_Category_834.jpg
                         
 
                         $source_path = $_FILES['image']['tmp_name'];
@@ -151,11 +151,9 @@
                 }
 
                 //2. Create SQL Query to Insert CAtegory into Database
-                $sql = "INSERT INTO tbl_category SET 
-                    title='$title',
-                    image_name='$image_name',
-                    featured='$featured',
-                    active='$active'
+                $sql = "INSERT INTO 
+                    `tbl_category`(`title`, `image_name`, `featured`, `active`) 
+                    VALUES ('$title','$image_name','$featured','$active')
                 ";
 
                 //3. Execute the Query and Save in Database

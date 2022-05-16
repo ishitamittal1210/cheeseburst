@@ -84,8 +84,7 @@
                         if($new_password==$confirm_password)
                         {
                             //Update the Password
-                            $sql2 = "UPDATE tbl_admin SET 
-                                password='$new_password' 
+                            $sql2 = "UPDATE `tbl_admin` SET `password`='$new_password' 
                                 WHERE id=$id
                             ";
 

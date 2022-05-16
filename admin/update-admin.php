@@ -83,10 +83,8 @@
         $username = $_POST['username'];
 
         //Create a SQL Query to Update Admin
-        $sql = "UPDATE tbl_admin SET
-        full_name = '$full_name',
-        username = '$username' 
-        WHERE id='$id'
+        $sql = "UPDATE `tbl_admin` SET 
+        `full_name`='$full_name',`username`='$username' WHERE id='$id'
         ";
 
         //Execute the Query

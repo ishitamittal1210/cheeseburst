@@ -146,14 +146,8 @@
                 $customer_address = $_POST['customer_address'];
 
                 //Update the Values
-                $sql2 = "UPDATE tbl_order SET 
-                    qty = $qty,
-                    total = $total,
-                    status = '$status',
-                    customer_name = '$customer_name',
-                    customer_contact = '$customer_contact',
-                    customer_email = '$customer_email',
-                    customer_address = '$customer_address'
+                $sql2 = "UPDATE `tbl_order` SET 
+                    `qty`='$qty',`total`='$total',`status`='$status',`customer_name`='$customer_name',`customer_contact`='$customer_contact',`customer_email`='$customer_email',`customer_address`='$customer_address' 
                     WHERE id=$id
                 ";
 

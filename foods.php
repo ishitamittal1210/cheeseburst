@@ -23,7 +23,7 @@
 
             <?php 
                 //Display Foods that are Active
-                $sql = "SELECT * FROM tbl_food WHERE active='Yes'";
+                $sql = "SELECT * FROM `tbl_food` WHERE `active`='Yes' ORDER BY price ASC";
 
                 //Execute the Query
                 $res=mysqli_query($conn, $sql);

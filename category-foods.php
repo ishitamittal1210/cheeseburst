@@ -47,7 +47,7 @@
             <?php 
             
                 //Create SQL Query to Get foods based on Selected CAtegory
-                $sql2 = "SELECT * FROM tbl_food WHERE category_id=$category_id";
+                $sql2 = "SELECT * FROM `tbl_food` WHERE `active`='Yes' AND `category_id`=$category_id ORDER BY price ASC";
 
                 //Execute the Query
                 $res2 = mysqli_query($conn, $sql2);

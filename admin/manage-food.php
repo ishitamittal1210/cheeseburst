@@ -57,7 +57,7 @@
 
                     <?php 
                         //Create a SQL Query to Get all the Food
-                        $sql = "SELECT * FROM tbl_food";
+                        $sql = "SELECT * FROM `tbl_food`";
 
                         //Execute the qUery
                         $res = mysqli_query($conn, $sql);

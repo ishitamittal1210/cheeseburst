@@ -69,7 +69,7 @@
                     <?php 
 
                         //Query to Get all CAtegories from Database
-                        $sql = "SELECT * FROM tbl_category";
+                        $sql = "SELECT * FROM `tbl_category`";
 
                         //Execute Query
                         $res = mysqli_query($conn, $sql);

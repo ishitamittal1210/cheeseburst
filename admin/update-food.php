@@ -70,7 +70,7 @@
                         if($current_image == "")
                         {
                             //Image not Available 
-                            echo "<div class='error'>Image not Available.</div>";
+                            echo "<div class='text-danger'>Image not Available.</div>";
                         }
                         else
                         {
@@ -206,7 +206,7 @@
                         if($upload==false)
                         {
                             //FAiled to Upload
-                            $_SESSION['upload'] = "<div class='error'>Failed to Upload new Image.</div>";
+                            $_SESSION['upload'] = "<div class='text-danger'>Failed to Upload new Image.</div>";
                             //REdirect to Manage Food 
                             header('location:'.SITEURL.'admin/manage-food.php');
                             //Stop the Process
@@ -226,7 +226,7 @@
                             if($remove==false)
                             {
                                 //failed to remove current image
-                                $_SESSION['remove-failed'] = "<div class='error'>Faile to remove current image.</div>";
+                                $_SESSION['remove-failed'] = "<div class='text-danger'>Faile to remove current image.</div>";
                                 //redirect to manage food
                                 header('location:'.SITEURL.'admin/manage-food.php');
                                 //stop the process
@@ -247,14 +247,8 @@
                 
 
                 //4. Update the Food in Database
-                $sql3 = "UPDATE tbl_food SET 
-                    title = '$title',
-                    description = '$description',
-                    price = $price,
-                    image_name = '$image_name',
-                    category_id = '$category',
-                    featured = '$featured',
-                    active = '$active'
+                $sql3 = "UPDATE `tbl_food` SET 
+                    `title`='$title',`description`='$description',`price`='$price',`image_name`='$image_name',`category_id`='$category',`featured`='$featured',`active`='$active' 
                     WHERE id=$id
                 ";
 
@@ -265,13 +259,13 @@
                 if($res3==true)
                 {
                     //Query Exectued and Food Updated
-                    $_SESSION['update'] = "<div class='success'>Food Updated Successfully.</div>";
+                    $_SESSION['update'] = "<div class='text-success'>Food Updated Successfully.</div>";
                     header('location:'.SITEURL.'admin/manage-food.php');
                 }
                 else
                 {
                     //Failed to Update Food
-                    $_SESSION['update'] = "<div class='error'>Failed to Update Food.</div>";
+                    $_SESSION['update'] = "<div class='text-danger'>Failed to Update Food.</div>";
                     header('location:'.SITEURL.'admin/manage-food.php');
                 }
 

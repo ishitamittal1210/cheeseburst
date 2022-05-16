@@ -16,7 +16,7 @@
                 //echo "Getting the Data";
                 $id = $_GET['id'];
                 //Create SQL Query to get all other details
-                $sql = "SELECT * FROM tbl_category WHERE id=$id";
+                $sql = "SELECT * FROM `tbl_category` WHERE id=$id";
 
                 //Execute the Query
                 $res = mysqli_query($conn, $sql);
@@ -36,7 +36,7 @@
                 else
                 {
                     //redirect to manage category with session message
-                    $_SESSION['no-category-found'] = "<div class='error'>Category not Found.</div>";
+                    $_SESSION['no-category-found'] = "<div class='text-danger'>Category not Found.</div>";
                     header('location:'.SITEURL.'admin/manage-category.php');
                 }
 
@@ -73,7 +73,7 @@
                             else
                             {
                                 //Display Message
-                                echo "<div class='error'>Image Not Added.</div>";
+                                echo "<div class='text-danger'>Image Not Added.</div>";
                             }
                         ?>
                     </td>
@@ -144,10 +144,10 @@
 
                         //Auto Rename our Image
                         //Get the Extension of our image (jpg, png, gif, etc) e.g. "specialfood1.jpg"
-                        $ext = end(explode('.', $image_name));
+                        // $ext = end(explode('.', $image_name));
 
                         //Rename the Image
-                        $image_name = "Food_Category_".rand(000, 999).'.'.$ext; // e.g. Food_Category_834.jpg
+                        $image_name = $_FILES['image']['name']; // e.g. Food_Category_834.jpg
                         
 
                         $source_path = $_FILES['image']['tmp_name'];

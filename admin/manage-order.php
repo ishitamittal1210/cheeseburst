@@ -33,7 +33,7 @@
 
                     <?php 
                         //Get all the orders from database
-                        $sql = "SELECT * FROM tbl_order ORDER BY id DESC"; // DIsplay the Latest Order at First
+                        $sql = "SELECT * FROM `tbl_order` ORDER BY id DESC"; // DIsplay the Latest Order at First
                         //Execute Query
                         $res = mysqli_query($conn, $sql);
                         //Count the Rows
@@ -97,7 +97,7 @@
                                         <td><?php echo $customer_email; ?></td>
                                         <td><?php echo $customer_address; ?></td>
                                         <td>
-                                            <a href="<?php echo SITEURL; ?>admin/update-order.php?id=<?php echo $id; ?>" class="btn-secondary">Update Order</a>
+                                            <a href="<?php echo SITEURL; ?>admin/update-order.php?id=<?php echo $id; ?>" class="btn btn-success">Update Order</a>
                                         </td>
                                     </tr>
 

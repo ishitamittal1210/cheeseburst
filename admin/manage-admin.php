@@ -2,9 +2,9 @@
 
 
         <!-- Main Content Section Starts -->
-        <div class="main-content">
+        <div class="content">
             <div class="wrapper">
-                <h1>Manage Admin</h1>
+                <h1 style="color: red;">Manage Admin</h1>
 
                 
 
@@ -53,7 +53,7 @@
 
                 <br><br>
 
-                <table class="tbl-full">
+                <table class="tbl-full-admin">
                     <tr>
                         <th>S.N.</th>
                         <th>Full Name</th>
@@ -64,7 +64,7 @@
                     
                     <?php 
                         //Query to Get all Admin
-                        $sql = "SELECT * FROM tbl_admin";
+                        $sql = "SELECT * FROM `tbl_admin`";
                         //Execute the Query
                         $res = mysqli_query($conn, $sql);
 
