@@ -18,7 +18,7 @@ color:white">
 							<p class="footer-des">20 Carrochan Rd, Balloch, Alexandria G83 8EG, UK 69QJ+2F Alexandria, United Kingdom</p>
 							<!-- <p> -->
 								<p>Phone: <a href="+911234567890">+91 123 456 789 0 , +91 123 456 789 0</a></p>
-								<p>E - mail: <a href="mailto:support@pizzon.com">support@pizzon.com</a></p>
+								<p>E - mail: <a href="mailto:support@pizzon.com">support@CheeseBurst.com</a></p>
 							<!-- </p>  -->  
 						</div>
 					</div> 
@@ -28,10 +28,10 @@ color:white">
 							<h2 class='text-light'>Opening Hours</h2>
 							<hr>
 							<!-- <p> -->
-								<p>Mon - Tues :  <span>6.00 am - 10.00 pm</span></p>
-								<p>Wednes - Thurs : <span>6.00 am - 10.00 pm</span></p>
-								<p>Launch :  <span>Everyday</span></p>
-								<p>Sunday :  <span class="footer-close">Closed</span></p>
+								<p>Mon - Sat :  <span>8.00 am - 11.00 pm</span></p>
+								<!-- <p>Wednes - Thurs : <span>6.00 am - 10.00 pm</span></p> -->
+								<p>Launch & Dinner :  <span>Everyday</span></p>
+								<p>Sunday :  <span class="footer-close">Special Offer</span></p>
 							<!-- </p> -->
 						</div>
 					</div>
@@ -110,7 +110,7 @@ color:white">
 				<div class='container-fluid p-4 row'>
 
 					<div class="col-xl-12 col-lg-12 col-md-12">
-						<p class="copy-text mt-4">© CheeseBurst All Rights Reserved. Designed by <a href="https://templatescoder.com/" target="_blank">TemplatesCoder</a></p>
+						<p class="copy-text mt-4">© CheeseBurst All Rights Reserved. Designed by <a href="https://templatescoder.com/" target="_blank">CheeseBurst Team</a></p>
 					</div>
 
 				</div>

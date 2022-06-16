@@ -57,7 +57,7 @@
 
                     <?php 
                         //Create a SQL Query to Get all the Food
-                        $sql = "SELECT * FROM `tbl_food`";
+                        $sql = "SELECT * FROM `tbl_food` ORDER BY price ASC";
 
                         //Execute the qUery
                         $res = mysqli_query($conn, $sql);
@@ -86,7 +86,7 @@
                                 <tr>
                                     <td><?php echo $sn++; ?>. </td>
                                     <td><?php echo $title; ?></td>
-                                    <td>$<?php echo $price; ?></td>
+                                    <td><i class="fa fa-inr" aria-hidden="true"></i><?php echo $price; ?></td>
                                     <td>
                                         <?php  
                                             //CHeck whether we have image or not
@@ -128,5 +128,5 @@
     </div>
     
 </div>
-
+<?php include('back2top.php'); ?>
 <?php include('partials/footer.php'); ?>
