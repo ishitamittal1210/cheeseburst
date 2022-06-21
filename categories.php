@@ -72,4 +72,14 @@
     <!-- Categories Section Ends Here -->
 
 
+
+    <!------------ loader -------------->
+
+    <div class="loader">
+            <img src="images/loader.gif" alt="" />
+    </div>
+
+
+
+
     <?php include('partials-front/footer.php'); ?>

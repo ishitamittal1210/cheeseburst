@@ -9,8 +9,14 @@
     <title>Restaurant Website</title>
     <link href='https://fonts.googleapis.com/css?family=Ewert' rel='stylesheet'>
 
+    
+    <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+    
+    
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+
+
 
     <!-- jQuery library -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
@@ -22,9 +28,16 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- font awesome cdn link -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> -->
+    <!-- https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css -->
+    
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/footer.css">
+
+
+
     <style>
         *{
             margin: 0;
@@ -49,13 +62,13 @@
 style="
 font-size: 20px;
 box-shadow: 0 0 5px black, 0 0 10px black, 0 0 15px black;
-background-image: linear-gradient(#5e0000, #380101);
+background-image: linear-gradient(to bottom right, #5e0000, #ff8243, #f3f3f5);
 ">
         <a class="navbar-brand" style='
         font-size: 20px;
         ' href="#">
           <span style="color: yellow">Cheese</span>
-          <span style="color: red">Bur</span><span style="color: orange">st</span>
+          <span style="color: #5e0000">Bur</span><span style="color: orange">st</span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
           <span class="navbar-toggler-icon"></span>
@@ -95,4 +108,21 @@ background-image: linear-gradient(#5e0000, #380101);
           </ul>
         </div>  
       </nav>
+
+      </body>
+
+
+
+
+
+
+
+
+      <script src="js/script.js"></script>
+
+      <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
+
+
+
       <?php require './back2top.php' ?> 
